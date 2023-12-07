@@ -1,4 +1,4 @@
-runtime: nodejs16  # or whichever version is appropriate
+runtime: nodejs20  # or whichever version is appropriate
 env: standard
 instance_class: F1  # Choose an appropriate instance class
 
