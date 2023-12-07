@@ -4,9 +4,9 @@
   "description": "",
   "author": "",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "UNLICENSçED",
   "scripts": {
-    "build": "echo 'Build step skipped'",
+    "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "node dist/main",
     "start:dev": "node dist/main --watch",
